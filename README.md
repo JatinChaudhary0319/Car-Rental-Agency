@@ -12,7 +12,7 @@ A self car rental agency platform which allows customers and employees to use th
 6. Click on new at side navbar.
 7. Give a database name as (rental) hit on create button.
 8. After creating database name click on import.
-9. Browse the file in directory[C:/xampp/htdocs/Car_Rental_Agency/DATABASE FILE/rental.sql].
+9. Browse the file in directory[C:\xampp\htdocs\Car_Rental_Agency\DATABASE FILE\rental.sql].
 10. After importing successfully.
 11. Open any browser and type "http://localhost/Car_Rental_Agency" to open User layout.
 

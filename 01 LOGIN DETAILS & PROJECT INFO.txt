@@ -1,0 +1,42 @@
+**Database Name: rental**
+
+**Developed by Jatin Chaudhary**
+
+**Recommended PHP Version 5.6.3 and 7.4.12**
+
+Installation
+1. Install XAMPP or WAMPP.
+2. Open XAMPP Control panal and start [apache] and [mysql] .
+3. Extract files in C:\xampp\htdocs.
+4. Open link localhost/phpmyadmin
+5. Click on new at side navbar.
+6. Give a database name as (rental) hit on create button.
+7. After creating database name click on import.
+8. Browse the file in directory[C:\xampp\htdocs\Car_Rental_Agency\DATABASE FILE/rental.sql].
+9. After importing successfully, open any browser and type http://localhost/Car_Rental_Agency to open User layout.
+
+
+**Customer Login Details**
+
+Username: lucas
+Password: password
+
+Username: james
+Password: password
+
+Username: ethan
+Password: password
+
+Username: christine
+Password: password
+
+Username: antonio
+Password: password
+
+**Employee Login Details**
+
+Username: Jatin
+Password: 87654321
+
+Username: Priyanka
+Password: 87654321

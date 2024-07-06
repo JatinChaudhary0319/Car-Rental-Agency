@@ -17,6 +17,10 @@
 						<span><strong>PHP</strong></span><br/>
 						<img height="64px" width="64px" src="https://external-content.duckduckgo.com/iu/?u=https%3A%2F%2Ftse1.mm.bing.net%2Fth%3Fid%3DOIP.aH7gPR6VJmqQiRXQZ4GvxwHaIc%26pid%3DApi&f=1&ipt=11dd57d798d7c993213dd88159b5e55eb49e24f5e4f9bc068edf258a5cb5a461&ipo=images">
 					</td>
+          <td width="25%" align="center">
+						<span><strong>JavaScript</strong></span><br/>
+						<img height="64px" width="64px" src="https://openclipart.org/image/800px/272343">
+					</td>
 				</tr>
 			</tbody>
 		</table>

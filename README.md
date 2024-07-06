@@ -1,5 +1,27 @@
 <h1 align="center">Car Rental Agency</h1> 
 
+- ### Tech Stack used:
+	<center>
+		<table>
+			<tbody>
+				<tr>
+					<td width="25%" align="center">
+						<span><strong>HTML</strong></span><br/>
+						<img height="64px" width="64px" src="https://clipartcraft.com/images/html5-logo-html-5.png">
+					</td>
+					<td width="25%" align="center">
+						<span><strong>CSS</strong></span><br/>
+						<img height="64px" width="64px" src="https://w7.pngwing.com/pngs/696/424/png-transparent-logo-css-css3.png">
+					</td>
+          <td width="25%" align="center">
+						<span><strong>PHP</strong></span><br/>
+						<img height="64px" width="64px" src="https://external-content.duckduckgo.com/iu/?u=https%3A%2F%2Ftse1.mm.bing.net%2Fth%3Fid%3DOIP.aH7gPR6VJmqQiRXQZ4GvxwHaIc%26pid%3DApi&f=1&ipt=11dd57d798d7c993213dd88159b5e55eb49e24f5e4f9bc068edf258a5cb5a461&ipo=images">
+					</td>
+				</tr>
+			</tbody>
+		</table>
+	</center>
+ 
 ## About Project:
 A self car rental agency platform which allows customers and employees to use their respective functionalities.
 
@@ -15,6 +37,9 @@ A self car rental agency platform which allows customers and employees to use th
 9. Browse the file in directory[C:\xampp\htdocs\Car_Rental_Agency\DATABASE FILE\rental.sql].
 10. After importing successfully.
 11. Open any browser and type "http://localhost/Car_Rental_Agency" to open User layout.
+
+## Live Demo Link:
+You can visit and have a look <a href="https://rentalscar.000webhostapp.com/index.php" target="_blank" rel="noopener noreferrer">here</a>.
 
 # If you like my project hit the star 🌟 button
 
